@@ -32,5 +32,8 @@ public class unit_martix {
         if (temp){
             System.out.println("yes");
         }
+        else {
+            System.out.println("noo");
+        }
     }
 }
