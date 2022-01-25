@@ -1,7 +1,7 @@
 package com.company;
 import java.util.*;
 public class Main {
-
+//main file
     public static void main(String[] args) {
 	// write your code here
         int num;
