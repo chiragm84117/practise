@@ -7,7 +7,9 @@ public class reservation {
     public static void main(String[] arg) {
         railway r1 = new railway();
         r1.input();
-
+        System.out.println("again");
+        railway r2 = new railway();
+        r2.input();
 
     }
 }
