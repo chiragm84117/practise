@@ -3,7 +3,7 @@ package com.company;
 import java.util.*;
 
 class books{
-    int bookid=1002;
+    int bookid=1001;
     String booktitle="java",category="cse";
     float price=750;
     void display(){
